@@ -1,0 +1,5 @@
+registry:
+  addr:
+    - ':4380'
+rpc:
+  server: ':8080'
